@@ -1,0 +1,4 @@
+{'Time': datetime.datetime(2026, 2, 5, 17, 34, 16, 80321), 'Source': 'Multiple', 'Attack': 'BruteForce', 'Count': 116, 'Severity': 'HIGH', 'MITRE_Tactic': 'Credential Access', 'MITRE_Technique': 'T1110', 'MITRE_Name': 'Brute Force'}
+{'Time': datetime.datetime(2026, 2, 5, 17, 34, 16, 80423), 'Source': 'Multiple', 'Attack': 'Exfiltration', 'Count': 102, 'Severity': 'HIGH', 'MITRE_Tactic': 'Exfiltration', 'MITRE_Technique': 'T1041', 'MITRE_Name': 'Exfiltration Over C2 Channel'}
+{'Time': datetime.datetime(2026, 2, 5, 17, 34, 16, 80423), 'Source': 'Multiple', 'Attack': 'PortScan', 'Count': 96, 'Severity': 'MEDIUM', 'MITRE_Tactic': 'Reconnaissance', 'MITRE_Technique': 'T1046', 'MITRE_Name': 'Network Service Discovery'}
+{'Time': datetime.datetime(2026, 2, 5, 17, 34, 16, 80423), 'Source': 'Multiple', 'Attack': 'DDoS', 'Count': 82, 'Severity': 'MEDIUM', 'MITRE_Tactic': 'Impact', 'MITRE_Technique': 'T1498', 'MITRE_Name': 'Network Denial of Service'}

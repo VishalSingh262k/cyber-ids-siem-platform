@@ -1,9 +1,10 @@
-simpy
-networkx
+streamlit>=1.30
 pandas
 numpy
 scikit-learn
 matplotlib
-streamlit
-shap
-plotly
+seaborn
+
+shap==0.46.0
+numba==0.58.1
+llvmlite==0.41.1

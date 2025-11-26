@@ -2,6 +2,7 @@
 
 An end-to-end cybersecurity analytics platform that simulates enterprise network traffic and applies machine learning for intrusion detection, alerting, and threat intelligence mapping. This project simulates various network attack scenarios and uses an Ensemble Intrusion Detection System (IDS) to detect and classify malicious activities, mapping them to the MITRE ATT&CK framework.
 
+This project is now deployed on Streamlit Cloud and can be accessed at [Cyber IDS SIEM Platform](https://cyber-ids-siem-platform.streamlit.app).
 ---
 
 ## Features

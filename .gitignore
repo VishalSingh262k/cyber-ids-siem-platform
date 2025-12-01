@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+.streamlit/
+*.pyc
+data/*.csv
+data/*.log

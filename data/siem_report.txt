@@ -1,0 +1,18 @@
+ SIEM SECURITY REPORT 
+Generated: 2026-02-05 16:00:31.717328
+
+Total Packets: 19507
+Total Attacks: 15922
+
+Attack Breakdown:
+DDoS: 5410
+BruteForce: 4500
+PortScan: 3012
+Exfiltration: 3000
+
+Top Attack Sources:
+Client2: 5295
+Client4: 3317
+Client1: 3302
+Client3: 2004
+Client5: 2004

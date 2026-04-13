@@ -1,7 +1,7 @@
 streamlit>=1.30
+plotly
+scikit-learn
+shap
+simpy
 pandas
 numpy
-scikit-learn
-matplotlib
-seaborn
-
